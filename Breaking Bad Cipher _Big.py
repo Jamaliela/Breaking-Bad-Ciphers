@@ -4,7 +4,7 @@
 
 # Assignment: A4: Breaking Bad Ciphers
 #
-# Purpose: Thia assignment explores the process for cracking different ciphers.
+# Purpose: This assignment explores the process for cracking different ciphers.
 #
 # Acknowledgement: Dr. Maiti and Evan Johnson for helping to find a way to crack the bigger cipher
 #
